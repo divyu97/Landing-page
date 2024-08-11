@@ -1,1 +1,1 @@
-# Landing-page
+This is a simple homepage layout.
